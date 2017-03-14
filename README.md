@@ -3,12 +3,14 @@ This is a simple console-based application developed in Java. The program explor
 ***How to use this application***<br/>
 ```
 java MatrixOperations
-```<br/>
+```
+<br/>
 ***Example Output***<br/>
 Below is an example output of the application when run:<br/>
 ```
 [336, 588, 28, 969, 146, 114, 139, 492, 850, 745] -> (969, 28, 440.7)
-```<br/>
+```
+<br/>
 ***To do***
 - [ ] I'm unsure whether to implement user input instead of updating the source file. It's more understanding how thread works than actual utilisation.
 - [ ] Add in extra functions (adding, subtracting, etc.)
