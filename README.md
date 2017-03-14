@@ -8,6 +8,7 @@ java MatrixOperations
 ***Example Output***<br/>
 Below is an example output of the application when run:<br/>
 ```
+Matrix returns in the following format: (Largest Number, Smallest Number, Average)
 [336, 588, 28, 969, 146, 114, 139, 492, 850, 745] -> (969, 28, 440.7)
 ```
 <br/>
